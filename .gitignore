@@ -1,0 +1,47 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+notebooks/model.py
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Virtualenv
+venv/
+.env/
+.venv/
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Data
+*.parquet
+datasets/
+
+# Temp
+tmp/
+temp/
+
+# Python build
+build/
+dist/
+*.egg-info/
+
+# Notebook outputs
+*.html
+
+# Environment
+.env
+
+# Cache
+.cache/
